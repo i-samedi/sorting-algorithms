@@ -1,4 +1,4 @@
-# Laboratorio de Estructura de Datos y Algoritmos
+# Laboratorio de Estructura de Datos y Algoritmos - UDP
 
 ## ES
 En este repositorio procesaremos un dataset con más de 580 mil registros de canciones de Spotify y se utilizarán las estructuras de datos y algoritmos.
